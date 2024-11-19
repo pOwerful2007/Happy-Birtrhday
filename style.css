@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rubik+Mono+One&display=swap");
+
+body {
+  background-image: url(./beach.jpg);
+  background-size: 100%;
+}
+
+.idk {
+  font-family: "Rubik Mono One", monospace;
+  color: #7bd3ea;
+  font-size: 60px;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+  line-height: 1;
+  letter-spacing: -0.5px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.idp {
+  font-family: "Rubik Mono One", monospace;
+  color: #7bd3ea;
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  letter-spacing: -0.5px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.img {
+  width: 1300px;
+  height: auto;
+  margin-left: 180px;
+}
+
+.all_text {
+  font-size: large;
+  width: 700px;
+  text-align: center;
+  margin-left: 610px;
+  text-shadow: 2px 2px 5px rgba(226, 164, 241, 0.5);
+  margin-top: 100px;
+}
+
+.first {
+  text-align: center;
+  font-family: "Rubik Mono One", monospace;
+  color: #4b4376;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.second {
+  text-align: center;
+  font-family: "Rubik Mono One", monospace;
+  color: #4b4376;
+  font-weight: bold;
+}
+
+.third {
+  text-align: center;
+  font-family: "Rubik Mono One", monospace;
+  color: #4b4376;
+  font-weight: bold;
+}
+
+.fourth {
+  text-align: center;
+  font-family: "Rubik Mono One", monospace;
+  color: #4b4376;
+  font-weight: bold;
+}
